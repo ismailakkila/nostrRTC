@@ -21,7 +21,7 @@ npm install
 npm run make
 ```
 
-Alternatively, install provided binary for your platform [`here`](./releases/latest)
+Alternatively, install provided binary for your platform [`here`](https://github.com/ismailakkila/nostrRTC/releases/)
 
 
 For development purposes, you can also run the following:
