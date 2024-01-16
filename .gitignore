@@ -1,0 +1,8 @@
+.git
+node_modules
+npm-debug.log
+.env
+yarn.lock
+package-lock.json
+logs/*
+out/*
